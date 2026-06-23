@@ -6,7 +6,7 @@ Game enhancement platform, community tools, and gaming software built entirely i
 
 [Website](https://elocarry.net) •
 [Discord](https://discord.gg/elocarry) •
-[Trustpilot](https://uk.trustpilot.com/review/elocarry.net)
+[Trustpilot](https://trustpilot.com/review/elocarry.net)
 
 ⭐⭐⭐⭐⭐ 200+ Verified Reviews
 
@@ -48,7 +48,7 @@ Build team compositions, explore hero synergies, and discover optimal team-up co
 - 🎵 TikTok: https://www.tiktok.com/@elocarry
 - 🐦 X: https://twitter.com/Elocarrynet
 - 📺 YouTube: https://youtube.com/@Elocarrynet
-- ⭐ Trustpilot: https://uk.trustpilot.com/review/elocarry.net
+- ⭐ Trustpilot: https://trustpilot.com/review/elocarry.net
 
 ---
 
