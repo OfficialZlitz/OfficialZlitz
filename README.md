@@ -36,7 +36,7 @@ Everything is built, maintained, and supported internally by our team.
 
 Build team compositions, explore hero synergies, and discover optimal team-up combinations.
 
-🔗 https://elocarry.net/marvel-rivals/team-builder/
+🔗 https://elocarry.net/free-tools/marvel-rivals/team-builder/
 
 ---
 
